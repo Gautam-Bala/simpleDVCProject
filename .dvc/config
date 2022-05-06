@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = O:\HUM\Projects\fNIRS\EarGenie DSP figs and notes\Analytics_DVC_Test\data
